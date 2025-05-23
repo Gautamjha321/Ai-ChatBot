@@ -26,10 +26,10 @@ This project simulates the front-end behavior of a real AI chatbot where users c
 
 ## 📸 Screenshots
 
-![Desktop View](./assets/chatbot-desktop.png)  
+![Desktop View](image.png)  
 *Responsive chatbot on desktop*
 
-![Mobile View](./assets/chatbot-mobile.png)  
+![Mobile View](image.png)  
 *Smooth UI on mobile screens*
 
 ---
